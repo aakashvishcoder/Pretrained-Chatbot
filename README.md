@@ -3,7 +3,7 @@
 ## General Process & Overview
 
 <p>This project was created for the Congressional App Challenge. LLMS and Transformers are an integral part of AI today. After working with numerous types of Neural Networks, I expanded to employ transformers in various text based tasks. Transformers can be used for many text based tasks, whether it be classification or text generation. Additionally, the use of a transformer solves the age-old problem: <a href="https://en.wikipedia.org/wiki/Vanishing_gradient_problem">the vanishing gradient problem</a>. </p>
-<p>To create this project, I imported the <a href="https://huggingface.co/Qwen/Qwen3-4B">Qwen3-4B</a> model from Hugging Face. Then, using a dataset that I also found in Hugging Face, I fine-tuned the model (changing up the weights and biases). </p>
+<p>To create this project, I imported the <a href="https://huggingface.co/Qwen/Qwen3-4B">Qwen3-4B</a> model from Hugging Face. Then, using a dataset that I also found in Hugging Face, I fine-tuned the model, changing up the weights and biases. </p>
 
 ## Complications
 
