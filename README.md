@@ -14,7 +14,7 @@
 - Jupyter
 - Python
 - PyTorch
-- <a href="https://huggingface.co/models">Hugging Face</a>
+- <a href="https://huggingface.co/">Hugging Face</a>
 
 ## How to Use
 
